@@ -1,12 +1,20 @@
 <template>
   <div class="about">
     <h1>Minha Primeira Tabela</h1>
-    <table border="1" width="100%" bordercolor ="blue">
-      <th>Status</th>
-      <th>Descricão</th>
-      <th>Tempo de realização</th>
-      <th>Área de botões</th>
+    <table border="1" width="100%" length="100%" bordercolor ="blue">
+      <caption>Lista de Tarefas</caption>
+      <thead>
+        <th>Status</th>
+        <th>Descricão</th>
+        <th>Tempo de realização</th>
+        <th>Área de botões</th>
+      </thead>
 
+    <tfoot>Erick Oliveira de Souza
+
+    </tfoot>
+
+    <tbody>
       <tr>
         <td>Status</td>
         <td>Descricão</td>
@@ -31,6 +39,7 @@
         <td>5 minutos</td>
         <td></td>
       </tr>
+    </tbody>
 
     </table>
   </div>
@@ -40,6 +49,40 @@
 /*Aqui fica o CSS*/
 
 table th {
-  color:red;
+
 }
+table tr {
+
+}
+thead {
+  color: darkblue;
+  background: darkcyan;
+
+}
+
+tbody {
+  letter-spacing: 1px;
+  font-size: 90%;
+  font-style: italic;
+  color:rgb(253, 179, 130);
+  background-color: rgb(22, 1, 39);
+
+
+}
+tfoot {
+  font-size: 70%;
+  font-weight: bold;
+}
+
+caption {
+  font-weight:bolder;
+  font-size: 110%;
+}
+
+h1 {
+  color: aqua;
+}
+
+
+
 </style>
