@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Minha Primeira Tabela</h1>
+    <h1>My first table</h1>
     <table border="1" width="100%" length="100%" bordercolor ="blue">
       <caption>Lista de Tarefas</caption>
       <thead>
@@ -72,6 +72,7 @@ tbody {
 tfoot {
   font-size: 70%;
   font-weight: bold;
+  color: Crimson;
 }
 
 caption {
@@ -80,7 +81,7 @@ caption {
 }
 
 h1 {
-  color: aqua;
+  color: LightSeaGreen;
 }
 
 
