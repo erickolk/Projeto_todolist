@@ -26,6 +26,7 @@
 </template>
 
 <script>
+    var lista_nome = [];
     export default {
         name: 'TarefasFormulario',
         data() { 
@@ -41,9 +42,9 @@
             adicionar() {
                 this.contador += 1;
             }
+        
         },
-        var lista_nome = [],
-        var lista_descricao = [],
+    
     }
 </script>
 
