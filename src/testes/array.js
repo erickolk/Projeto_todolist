@@ -22,3 +22,8 @@ tarefas[index].descricao = "meu quintal"
 //console.log(tarefaSelecionada)
 console.log(tarefas)
 console.log(tarefaSelecionada)
+
+for (tarefa of tarefas) {
+    
+}
+

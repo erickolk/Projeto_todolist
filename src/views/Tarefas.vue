@@ -9,34 +9,29 @@
         <th>Tempo de realização</th>
         <th>Área de botões</th>
       </thead>
-
-    <tfoot>Erick Oliveira de Souza
-
-    </tfoot>
-
-    <tbody>
+    <tbody id="tbody">
       <tr>
-        <td>Status</td>
-        <td>Descricão</td>
-        <td>Tempo de realização</td>
-        <td>Área para botões</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td>Realizado</td>
-        <td>Tempo regular</td>
-        <td>5 minutos</td>
-        <td>BOTTON</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>      
       <tr>
-        <td>Á realizar</td>
-        <td>Regular tabela</td>
-        <td>Indeterminado</td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
             <tr>
-        <td>Realizado</td>
-        <td>Tempo regular</td>
-        <td>5 minutos</td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
     </tbody>
